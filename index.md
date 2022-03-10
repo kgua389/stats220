@@ -2,8 +2,7 @@
 
 ## I created this meme because I highly dislike dogs of this breed. I am not a racist. Just this one breed of dog in particular, due to their face and overly aggressive high pitched barks for no reason.
 
-![my_ass](https://user-images.githubusercontent.com/101312088/157610233-e87f781b-6410-465a-91de-8087e84397d4.png)
-
+![epic meme](https://user-images.githubusercontent.com/101312088/157612295-37c9617d-01c6-413c-98aa-8c557c6825a8.png)
 
 library(magick)
 
