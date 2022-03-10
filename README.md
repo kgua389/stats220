@@ -1,5 +1,6 @@
 # stats220
 ## The purpose of this repo is for assignment 1 where I have created a png meme.
-![epic meme](https://user-images.githubusercontent.com/101312088/157608814-68175f71-8dd2-457c-b6ba-a17813f72b5b.png)
+
+![epic meme](https://user-images.githubusercontent.com/101312088/157612975-9ad9a223-67da-4bd2-bbcc-b6379d839670.png)
 
 https://kgua389.github.io/stats220/
