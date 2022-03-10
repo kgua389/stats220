@@ -1,5 +1,6 @@
 # My meme
 
+## I created this meme because I highly dislike dogs of this breed. I am not a racist. Just this one breed of dog in particular, due to their face.
 
 ![my_ass](https://user-images.githubusercontent.com/101312088/157610233-e87f781b-6410-465a-91de-8087e84397d4.png)
 
@@ -26,5 +27,3 @@ rat_dog <- c(background, rat) %>%
 rat_dog
 
 image_write(rat_dog, "my_assignemnt.png")
-
-I created this meme because I highly dislike dogs of this breed. I am not a racist. Just this one breed of dog in particular, due to their face. 
