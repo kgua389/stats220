@@ -9,9 +9,9 @@ library(magick)
 background <- image_blank(width = 500,
                           height = 500,
                           color = "#000000") %>%
-  image_annotate(text = "No comment",
+  image_annotate(text = "Yes I am a rat\n How did you know?",
                  color = "#FFFFFF",
-                 size = 80,
+                 size = 60,
                  font = "Impact",
                  gravity = "center")
 
@@ -25,4 +25,4 @@ rat_dog <- c(background, rat) %>%
 
 rat_dog
 
-image_write(rat_dog, "my_assignemnt.png")
+image_write(rat_dog, "my_assignment.png")
