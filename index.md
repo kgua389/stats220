@@ -10,7 +10,7 @@
 
 ## Website links to where I got the image from
 1. [Although I don't remind you click on it (It's **DPReview**)](https://www.dpreview.com/forums/post/61261730)
-2. [**magick**(blackbox text)](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).
+2. [**magick** (blackbox text)](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).
 
 
 ### And here is my amazing meme:
