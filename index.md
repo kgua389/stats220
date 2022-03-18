@@ -12,7 +12,8 @@
 
 ## And here is my meme
 
-![epic meme](https://user-images.githubusercontent.com/101312088/157612295-37c9617d-01c6-413c-98aa-8c557c6825a8.png)
+### Here is the link to the meme
+https://kgua389.github.io/stats220/
 
 
 
