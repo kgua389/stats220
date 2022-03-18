@@ -4,6 +4,7 @@
 
 ![epic meme](https://user-images.githubusercontent.com/101312088/157612295-37c9617d-01c6-413c-98aa-8c557c6825a8.png)
 
+```
 library(magick)
 
 background <- image_blank(width = 500,
@@ -16,7 +17,7 @@ background <- image_blank(width = 500,
                  gravity = "center")
 
 
-```{}
+
 rat <- image_read("https://4.img-dpreview.com/files/p/TS560x560~forums/61261730/541112ec39fb4719a48a7e1da29e4344") %>%
   image_scale(500)
 
