@@ -1,19 +1,19 @@
 # __My meme__ 
 
-## Why did I create this meme? 💖✌
+## Why did I create this meme? 
 #### *I created this meme because I highly dislike dogs of this breed. I am not a racist. Just this one breed of dog in particular, due to their face and overly aggressive high pitched barks for no reason. To where I've got the inspiration and idea I would give credit to my neighbours dog.*😂
 
-### About me __(who asked)__ 😂❤💖✌
+### About me __(who asked)__ 
 - *I dont like rat dogs*
 - *I like cats*
-- *If I could own a pet, it would be a turtle* 😂❤💖✌
+- *If I could own a pet, it would be a turtle* 
 
 
 
 
-### And here is my amazing meme:😂❤💖✌
+### And here is my amazing meme:
 
-![Extra scuffed meme😂❤💖✌](https://user-images.githubusercontent.com/101312088/158941891-fe5e505c-0210-4a71-8359-e982fcfab9e9.png)
+![Extra scuffed meme](https://user-images.githubusercontent.com/101312088/158941891-fe5e505c-0210-4a71-8359-e982fcfab9e9.png)
 
 
 
