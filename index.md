@@ -8,7 +8,7 @@
 - *I like cats*
 - *If I could own a pet, it would be a turtle* 
 
-# website links to where I got the image from
+# Website links to where I got the image from
 1. [Although I don't remind you click on it (It's imgur)](https://imgur.com/gallery/RZHR6qL)
 
 
