@@ -9,7 +9,7 @@
 - *If I could own a pet, it would be a turtle* 
 
 ## Website links to where I got the image from
-1. [Although I don't remind you click on it (It's imgur)](![image](https://user-images.githubusercontent.com/101312088/158944677-6f0a429a-fc60-4531-a527-1fa578218a27.png))
+1. [Although I don't remind you click on it (It's dpreview)](https://www.dpreview.com/forums/post/61261730)
 2. [**magick**(blackbox text)](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).
 
 
