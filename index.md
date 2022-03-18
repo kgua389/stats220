@@ -10,7 +10,7 @@
 
 ## Website links to where I got the image from
 1. [Although I don't remind you click on it (It's imgur)](https://imgur.com/gallery/RZHR6qL)
-2. RStudio {magick} black box
+2. RStudio [{magick(blackbox text)}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).
 
 
 ### And here is my amazing meme:
