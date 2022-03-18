@@ -16,7 +16,7 @@ background <- image_blank(width = 500,
                  gravity = "center")
 
 
-
+```{}
 rat <- image_read("https://4.img-dpreview.com/files/p/TS560x560~forums/61261730/541112ec39fb4719a48a7e1da29e4344") %>%
   image_scale(500)
 
@@ -26,3 +26,4 @@ rat_dog <- c(background, rat) %>%
 rat_dog
 
 image_write(rat_dog, "my_assignment.png")
+```
