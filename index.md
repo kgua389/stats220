@@ -15,7 +15,7 @@
 
 
 
-```
+```{r, epic meme}
 library(magick)
 
 background <- image_blank(width = 500,
