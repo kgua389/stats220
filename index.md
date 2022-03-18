@@ -16,9 +16,10 @@
 
 ![Extra scuffed meme](https://user-images.githubusercontent.com/101312088/158941891-fe5e505c-0210-4a71-8359-e982fcfab9e9.png)
 ## Why did I create this meme? 
-1.*I created this meme because I highly dislike dogs of this breed. I am not a racist. Just this one breed of dog in particular, due to their face and overly aggressive high pitched barks for no reason.
+1. *I created this meme because I highly dislike dogs of this breed. I am not a racist. Just this one breed of dog in particular, due to their face and overly aggressive high pitched barks for no reason.*
+
 ## Where did I get inspiration?
-2. To where I've got the inspiration and idea I would give credit to my neighbours dog.*
+2. *To where I've got the inspiration and idea I would give credit to my neighbours dog.*
 
 
 ```{r, epic meme}
