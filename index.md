@@ -20,6 +20,7 @@
 
 
 ```{r, epic meme}
+
 library(magick)
 
 background <- image_blank(width = 500,
@@ -42,4 +43,5 @@ rat_dog <- c(background, rat) %>%
 rat_dog
 
 image_write(rat_dog, "my_assignment.png")
+
 ```
