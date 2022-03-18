@@ -1,4 +1,4 @@
 # stats220
-## The purpose of this repo is for assignment 1 where I have created a png meme.
+## I have created a awful meme for my hatred towards this breed of dog
 
 https://kgua389.github.io/stats220/
