@@ -12,7 +12,7 @@
 
 
 
-### Here is the link to the meme: [Extra scuffed meme]!(https://user-images.githubusercontent.com/101312088/158941759-5e9abb7c-5864-4dc6-9956-c131a359a9cd.png)
+### Here is the link to the meme: [Extra scuffed meme](https://user-images.githubusercontent.com/101312088/158941759-5e9abb7c-5864-4dc6-9956-c131a359a9cd.png)
 
 
 
