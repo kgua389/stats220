@@ -6,6 +6,7 @@
 ### About me __(who asked)__
 - *I dont like rat dogs*
 - *I like cats*
+- *If I could own a pet, it would be a turtle*
 
 
 ## And here is my meme
