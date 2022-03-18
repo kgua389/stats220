@@ -4,8 +4,8 @@
 
 
 ### About me __(who asked)__
-- I dont like rat dogs
-- I like cats
+- *I dont like rat dogs*
+- *I like cats*
 
 
 
