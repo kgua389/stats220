@@ -10,10 +10,9 @@
 - *If I could own a pet, it would be a turtle*
 
 
-## And here is my meme
 
-### Here is the link to the meme
-https://kgua389.github.io/stats220/
+
+### Here is the link to the meme: https://kgua389.github.io/stats220/
 
 
 
