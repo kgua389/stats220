@@ -1,7 +1,7 @@
 # __My meme__ 
 
 ## Why did I create this meme? 
-#### *I created this meme because I highly dislike dogs of this breed. I am not a racist. Just this one breed of dog in particular, due to their face and overly aggressive high pitched barks for no reason. To where I've got the inspiration and idea I would give credit to my neighbours dog.*😂
+#### *I created this meme because I highly dislike dogs of this breed. I am not a racist. Just this one breed of dog in particular, due to their face and overly aggressive high pitched barks for no reason. To where I've got the inspiration and idea I would give credit to my neighbours dog.*😂😂😂😂😂😂😂😂😂😂😂😂😂😂
 
 ### About me __(who asked)__ 
 - *I dont like rat dogs*
