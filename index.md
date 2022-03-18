@@ -12,7 +12,7 @@
 
 
 
-### Here is the link to the meme: https://kgua389.github.io/stats220/
+### Here is the link to the meme: [extra scuffed meme](https://kgua389.github.io/stats220/)
 
 
 
